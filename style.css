@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(214, 214, 214);
+
+}
+  
+.logo{
+  margin-top: -630px;
+  margin-left: 60px;
+  background-color: transparent;  
+}
+
+hr{
+    width: 20%;
+    margin-left: 480px;
+    margin-top: -40px;
+} 
+nav{
+    float: right;
+    margin-right: 50px;
+    margin-top: -18px;
+    font-size: larger;
+    
+}
+.nav-item{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.creative{
+    float: right;
+    display: flex;
+    margin-right: -400px;
+    margin-top: 40px;
+
+}
+.creative h1{
+    font-size: 110px;
+}
+.creative h3{
+    font-size: 35px;
+    margin-top: 170px;
+    margin-left: 20px;
+}
+
+
+.symbol{
+    display:block;
+    margin-left: 18%;
+    margin-top: -10px;
+}
+
+button{
+    float: right;
+    margin-right: -570px;
+    padding: 1.1em 2.1em;
+    background-color: rgb(145, 145, 145);
+    color: white;
+    font-weight: bolder;
+    margin-top: 320px;
+}
+.dot-list{
+    margin-top: 350px;
+    margin-left: 550px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.dot-list li{
+    text-decoration: none;
+    margin-top: 20px;
+}
+.line{
+    width: 18%;
+    margin-left: 410px;
+    margin-top: -200px;
+}
+.lines{
+    text-decoration: none;
+}
+
+.footer{
+    margin-top: -210px;
+    margin-left: 800px;
+}
+
+.two{
+    margin-top: 10px;
+}
+.three{
+    margin-top: 10px;
+}
+
+.arrow img{
+    float: right;
+    margin-top: -150px;
+    margin-right: 90px;
+}
